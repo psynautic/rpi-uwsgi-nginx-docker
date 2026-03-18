@@ -1,5 +1,5 @@
 FROM resin/rpi-raspbian
-MAINTAINER psy <psynautic@gmail.com>
+MAINTAINER psy 
 
 RUN \
   apt-get update && \
